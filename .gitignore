@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+
+# Compiled output
+/build
+/dist
+
+# Log files
+npm-debug.log*
+
+# Dependency lock files
+package-lock.json
+
+# ESLint cache
+/.eslintcache
+
