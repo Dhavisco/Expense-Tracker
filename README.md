@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Expense Tracker is a React.js application that allows users to keep track of their expenses. Users can add expense by inputing details of an expense, including Expense Title, amount, and date. The application then compiles these entries into a list, providing users with a clear overview of their expenses.
+Expense Tracker is a React.js application that allows users to keep track of their expenses. Users can add expenses by inputting details of an expense, including Expense Title, amount, and date. The application then compiles these entries into a list, providing users with a clear overview of their expenses.
 
 ## Features
 
@@ -12,8 +12,8 @@ Expense Tracker is a React.js application that allows users to keep track of the
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Dhavsco/Expense-Tracker.git`
-2. Navigate to the project directory: `cd expense-tracker`
-3. Install dependencies: `npm install`
+2. Open Terminal
+3. Install dependencies by running the command: `npm install` in the terminal
 4. Start the development server: `npm start`
 
 ## Usage
