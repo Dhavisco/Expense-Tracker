@@ -11,7 +11,7 @@ Expense Tracker is a React.js application that allows users to keep track of the
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Dhavsco/Expense-Tracker.git`
+1. Clone the repository: `git clone https://github.com/Dhavisco/Expense-Tracker.git`
 2. Open Terminal
 3. Install dependencies by running the command: `npm install` in the terminal
 4. Start the development server: `npm start`
